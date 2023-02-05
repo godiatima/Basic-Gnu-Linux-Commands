@@ -16,7 +16,7 @@ To begin with we will start with `ls command`
 
 It's a command that is used for listing files and directories on your system. To run the command type ls on your terminal and it will output the files and directories, like shown in the screenshot below.
 
-![ls command.png](/home/leapfrog/Documents/Github/Very%20Basic%20commands/assets/terminal_images/ls%20command.png)
+![ls command.png](https://github.com/godiatima/Basic-Gnu-Linux-Commands/blob/main/Very%20Basic%20commands/assets/ls%20command.png)
 
 `ls command` has arguments that you can use in order to manipulate the output, for example you can use -l argument for long listing or you can use -a for listing all the files even the hidden ones, like in the screenshot below.
 

@@ -20,7 +20,7 @@ It's a command that is used for listing files and directories on your system. To
 
 `ls command` has arguments that you can use in order to manipulate the output, for example you can use -l argument for long listing or you can use -a for listing all the files even the hidden ones, like in the screenshot below.
 
-![ls command-.png](https://home/leapfrog/Documents/Github/Very%20Basic%20commands/assets/ls%20command-.png)
+![ls command-.png](https://github.com/godiatima/Basic-Gnu-Linux-Commands/blob/main/Very%20Basic%20commands/assets/ls%20command-.png)
 
 When using **Linux** its all about your imagination and how far you can go, so don't be afraid to experiment some thing but make sure you're not root. A regular user command line prompt has a dollar sign `$` while a root user is a pound sign `#`.
 

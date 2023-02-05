@@ -1,6 +1,6 @@
 # Basic Gnu/Linux Commands👍️
 
-<img title="" src="file://home/leapfrog/Documents/Github/Very Basic commands/assets/bash bash.png" alt="bash logo" width="369">
+<img title="" src="/home/leapfrog/Documents/Github/Very Basic commands/assets/bash bash.png" alt="bash logo" width="369">
 
 Hello Guys👋️👋️, today I've made a  very simple tutorial talking about some of the very fundamental Linux commands that will help beginners who are jumping ship🦘️🦘️.
 

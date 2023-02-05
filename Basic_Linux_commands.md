@@ -26,37 +26,38 @@ When using **Linux** its all about your imagination and how far you can go, so d
 
 But if you want a command that can display the username, use `whoami` command like in the screenshot below.
 
-![whoami-regular.png](/home/leapfrog/Documents/Github/Very%20Basic%20commands/assets/whoami-regular.png)
+![whoami-regular.png](https://github.com/godiatima/Basic-Gnu-Linux-Commands/blob/main/Very%20Basic%20commands/assets/whoami-regular.png)
 
 and when your root;
 
-![whoami-root.png](/home/leapfrog/Documents/Github/Very%20Basic%20commands/assets/terminal_images/whoami-root.png)
+![whoami-root.png](https://github.com/godiatima/Basic-Gnu-Linux-Commands/blob/main/Very%20Basic%20commands/assets/whoami-root.png)
 
 - Changing Directories
 
 To change directory, you will use `cd` command.
 
-![changing directory.png](/home/leapfrog/Documents/Github/Very%20Basic%20commands/assets/changing%20directory.png)
+![changing directory.png](https://github.com/godiatima/Basic-Gnu-Linux-Commands/blob/main/Very%20Basic%20commands/assets/changing%20directory.png)
 
 Like example above we have moved from Document folder to Github folder which is inside the Document folder still, but your not limited to move inside a folder.
 
 To move back to where you were, use `cd ..` command,
 
-![cd back.png](/home/leapfrog/Documents/Github/Very%20Basic%20commands/assets/cd%20back.png)
+![cd back.png](https://github.com/godiatima/Basic-Gnu-Linux-Commands/blob/main/Very%20Basic%20commands/assets/cd%20back.png)
 
 A short for going back again is `cd -`,
 
-![cd shortcut.png](/home/leapfrog/Documents/Github/Very%20Basic%20commands/assets/cd%20shortcut.png)
+![cd shortcut.png](https://github.com/godiatima/Basic-Gnu-Linux-Commands/blob/main/Very%20Basic%20commands/assets/cd%20shortcut.png)
+
 
 To move to a different folder outside the folder you are, use `cd ~/name-of-Directory`, 
 
-![cd caret.png](/home/leapfrog/Documents/Github/Very%20Basic%20commands/assets/cd%20caret.png)
+![cd caret.png](https://github.com/godiatima/Basic-Gnu-Linux-Commands/blob/main/Very%20Basic%20commands/assets/cd%20caret.png)
 
 You will start with `cd `, then a tilde symbol ~, then forward slash(/), the name of the folder. The hotkey for typing tilde symbol is hit` SHIFT `then `` `on the keyboard,
 
 
 
-<img src="file:///home/leapfrog/Documents/Github/Very%20Basic%20commands/assets/terminal_images/keyboard.png" title="" alt="keyboard.png" width="505">
+<img src="https://github.com/godiatima/Basic-Gnu-Linux-Commands/blob/main/Very%20Basic%20commands/assets/terminal_images/keyboard.png" title="" alt="keyboard.png" width="505">
 
 
 

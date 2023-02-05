@@ -65,15 +65,15 @@ You will start with `cd `, then a tilde symbol ~, then forward slash(/), the nam
 
 The command for creating files on Linux system is `touch` command. You can create as many files at a go,you just have to separate then by leaving a space in between files, for example let us create files called file1 and file2.
 
-![touch files.png](/home/leapfrog/Documents/Github/Very%20Basic%20commands/assets/touch%20files.png)
+![touch files.png](https://github.com/godiatima/Basic-Gnu-Linux-Commands/blob/main/Very%20Basic%20commands/assets/touch%20files.png)
 
 We can list our files using `ls` command;
 
-![files.png](/home/leapfrog/Documents/Github/Very%20Basic%20commands/assets/terminal_images/files.png)
+![files.png](https://github.com/godiatima/Basic-Gnu-Linux-Commands/blob/main/Very%20Basic%20commands/assets/terminal_images/files.png)
 
 `Touch` command can also be used to change files time stamp, let us change the time stamp of file1;
 
-![time stamps.png](/home/leapfrog/Documents/Github/Very%20Basic%20commands/assets/terminal_images/time%20stamps.png)
+![time stamps.png](https://github.com/godiatima/Basic-Gnu-Linux-Commands/blob/main/Very%20Basic%20commands/assets/terminal_images/time%20stamps.png)
 
 You can see the time stamp of file1 has changed.
 
@@ -87,27 +87,27 @@ The command convention is `cp [source_file] [destination_file]`.
 
 First let us insert data in file1 so we can see the power of `cp `command;
 
-![file size.png](/home/leapfrog/Documents/Github/Very%20Basic%20commands/assets/terminal_images/file%20size.png)
+![file size.png](https://github.com/godiatima/Basic-Gnu-Linux-Commands/blob/main/Very%20Basic%20commands/assets/terminal_images/file%20size.png)
 
 Using` ls -l` command we can see that file1 and file2 are empty, so lets add something in file1. Now file1 has data in it.
 
-![file1 data.png](/home/leapfrog/Documents/Github/Very%20Basic%20commands/assets/file1%20data.png)
+![file1 data.png](https://github.com/godiatima/Basic-Gnu-Linux-Commands/blob/main/Very%20Basic%20commands/assets/terminal_images/File1-data.png)
 
 So we can use the` cp` command to move our data from file1 to file2, the command is
 
 `cp file1 file2.`
 
-![file2.png](/home/leapfrog/Documents/Github/Very%20Basic%20commands/assets/terminal_images/file2.png)
+![file2.png](https://github.com/godiatima/Basic-Gnu-Linux-Commands/blob/main/Very%20Basic%20commands/assets/terminal_images/file2.png)
 
 To display what is inside the files, we are going to use `cat` command, cat command spits out output on the terminal, let us use it so you can see;
 
-![cat command.png](/home/leapfrog/Documents/Github/Very%20Basic%20commands/assets/cat%20command.png)
+![cat command.png](https://github.com/godiatima/Basic-Gnu-Linux-Commands/blob/main/Very%20Basic%20commands/assets/cat%20command.png)
 
 - Moving files.
 
 To move files we use `mv command`. The convention is the same for `cp command`, it is `mv [source...] [destination...]`.
 
-![mv.png](/home/leapfrog/Documents/Github/Very%20Basic%20commands/assets/terminal_images/mv.png)
+![mv.png](https://github.com/godiatima/Basic-Gnu-Linux-Commands/blob/main/Very%20Basic%20commands/assets/mv.png)
 
 
 
@@ -115,7 +115,7 @@ To move files we use `mv command`. The convention is the same for `cp command`, 
 
 The command for creating directory on Linux is `mkdir command` , the convention for creating a folder is `mkdir name-of-the-folder`;
 
-![creating files.png](/home/leapfrog/Documents/Github/Very%20Basic%20commands/assets/terminal_images/creating%20files.png)
+![creating files.png](https://github.com/godiatima/Basic-Gnu-Linux-Commands/blob/main/Very%20Basic%20commands/assets/terminal_images/creating%20files.png)
 
 
 
@@ -123,11 +123,11 @@ The command for creating directory on Linux is `mkdir command` , the convention 
 
 To delete an empty directory, we use `rmdir `command;
 
-![deleting folders.png](/home/leapfrog/Documents/Github/Very%20Basic%20commands/assets/deleting%20folders.png)
+![deleting folders.png](https://github.com/godiatima/Basic-Gnu-Linux-Commands/blob/main/Very%20Basic%20commands/assets/deleting%20folders.png)
 
 Another way to delete is to use `rm command `with  a `-r` argument, the` -r `argument is for recursive.
 
-![recursive rm.png](/home/leapfrog/Documents/Github/Very%20Basic%20commands/assets/recursive%20rm.png)
+![recursive rm.png](https://github.com/godiatima/Basic-Gnu-Linux-Commands/blob/main/Very%20Basic%20commands/assets/recursive%20rm.png)
 
 To shortlist the commands we have learnt today are:
 
